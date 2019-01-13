@@ -3,8 +3,6 @@
 // get 4 in a row to win
 // have fun
 
-// this is gay
-
 import java.util.Scanner;
 
 public class Connect4_MKII {
